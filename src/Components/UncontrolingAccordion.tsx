@@ -48,6 +48,6 @@ function AccordionBody(props: AccordionBodyPropsType) {
             <li> 3</li>
         </ul>
     }
-};
+}
 
 export default UncontrolledAccordion;

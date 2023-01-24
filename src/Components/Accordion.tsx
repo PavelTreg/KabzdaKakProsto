@@ -25,7 +25,7 @@ type AccordionBodyPropsType = {
 }
 function AccordionBody(props: AccordionBodyPropsType) {
     console.log("AccordionBody rendering")
-    if (props.collapsed === true) {
+    if (props.collapsed) {
     return <select>
         <ul>
         <li> 1</li>

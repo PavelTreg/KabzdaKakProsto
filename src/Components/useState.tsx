@@ -1,10 +1,10 @@
 import React, {useState} from 'react';
-
+/*
 type PropsType = {
     on?: boolean
-}
+}*/
 
-export const OnOFF = (props: PropsType) => {
+export const OnOFF = (/*props: PropsType*/) => {
 
 
 
